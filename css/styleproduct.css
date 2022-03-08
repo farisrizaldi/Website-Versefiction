@@ -1,0 +1,141 @@
+.container-product {
+  padding: 100px;
+}
+.head-product {
+  width: 825px;
+}
+.detail-product {
+  width: 200px;
+}
+.description1 {
+  font-weight: bold;
+  color: #571892;
+}
+.description2 {
+  font-weight: bold;
+  color: #571892;
+}
+.column {
+  padding-left: 50px;
+}
+.row-detail-product {
+  padding-top: 20px;
+}
+.detail-product:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
+.count-number {
+  width: 45px;
+}
+.addtochart {
+  color: #fff;
+  background-color: #8a2be2;
+  width: 175px;
+  height: 30px;
+  text-align: center;
+  line-height: 10px;
+  margin-left: 5px;
+  text-align: center;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+  transition: 0.4s;
+  cursor: pointer;
+}
+.addtochart:hover {
+  color: #ffff;
+  background-color: #8a2be2;
+  font: bolder;
+  box-shadow: 0px 0px 10px #8a2be2;
+  transform: scale(0.9);
+  transition: all 0.3s ease;
+}
+.Category {
+  color: #8a2be2;
+}
+
+/* related product */
+.container-relatedproduct {
+  padding-left: 100px;
+  margin-top: -50px;
+  margin-bottom: 50px;
+}
+.relatedproduct {
+  color: #571892;
+  font-size: 36px;
+  font-weight: bold;
+}
+.shopnow {
+  color: #fff;
+  background-color: #8a2be2;
+  margin-left: 5px;
+  box-shadow: #8a2be2;
+  position: relative;
+  overflow: hidden;
+  transition: 0.4s;
+  cursor: pointer;
+}
+.shopnow:hover {
+  color: #8a2be2;
+  background-color: #fff;
+  font: bolder;
+  box-shadow: 0px 5px 30px #8a2be2;
+  transform: scale(0.9);
+  transition: all 0.3s ease;
+}
+
+/* sale product */
+.container-saleproduct {
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: -215px;
+}
+.headingsaleproduct {
+  color: #571892;
+  font-weight: bold;
+  font-size: 36px;
+}
+.sale {
+  width: 60px;
+  height: 60px;
+  right: -25px;
+  top: -20px;
+}
+.card {
+  border-radius: 15px;
+}
+.card:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
+.cardbasic {
+  box-shadow: 0px 5px 25px #8a2be2;
+  border-radius: 15px;
+}
+.shopnow {
+  color: #fff;
+  background-color: #8a2be2;
+  margin-left: 5px;
+  box-shadow: #8a2be2;
+  position: relative;
+  overflow: hidden;
+  transition: 0.4s;
+  cursor: pointer;
+}
+.shopnow:hover {
+  color: #8a2be2;
+  background-color: #fff;
+  font: bolder;
+  box-shadow: 0px 5px 30px #8a2be2;
+  transform: scale(0.9);
+  transition: all 0.3s ease;
+}
+
+/* atas footer */
+.container-wavefooter2 {
+  min-height: none;
+  margin-bottom: -43px;
+}
+
+/* footer */
